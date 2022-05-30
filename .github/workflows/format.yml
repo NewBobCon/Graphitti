@@ -29,4 +29,4 @@ jobs:
           echo $HOME
           ls $HOME
           ls $HOME/work
-          clang-format --Werror -style=$HOME/Graphitti/.clang-format `find . -type f \( -iname "*.cpp" -or -iname "*.h" \) ! -path "./Testing/lib/*" ! -path "./ThirdParty/*" ! -path "./docs/*"`
+          clang-format --Werror -style=$HOME/work/Graphitti/.clang-format `find . -type f \( -iname "*.cpp" -or -iname "*.h" \) ! -path "./Testing/lib/*" ! -path "./ThirdParty/*" ! -path "./docs/*"`
