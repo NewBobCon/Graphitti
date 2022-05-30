@@ -30,4 +30,5 @@ jobs:
           echo "*** running clang-format to check for style violations"
           echo $HOME
           ls $HOME/work/Graphitti
+          ls $HOME/work/Graphitti/Graphitti
           clang-format --Werror -style= $HOME/work/Graphitti/.clang-format `find . -type f \( -iname "*.cpp" -or -iname "*.h" \) ! -path "./Testing/lib/*" ! -path "./ThirdParty/*" ! -path "./docs/*"`
