@@ -12,6 +12,8 @@ on:
       - '**.h'
     branches:
       - master
+  workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -28,5 +30,5 @@ jobs:
           echo "*** running clang-format to check for style violations"
           echo $HOME
           ls $HOME
-          ls $HOME/work
+          ls $HOME/Graphitti
           clang-format --Werror -style= $HOME/Graphitti/.clang-format `find . -type f \( -iname "*.cpp" -or -iname "*.h" \) ! -path "./Testing/lib/*" ! -path "./ThirdParty/*" ! -path "./docs/*"`
