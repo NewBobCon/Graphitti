@@ -20,6 +20,8 @@
 #include "AllVertices.h"
 #include "EdgesFactory.h"
 #include "OperationManager.h"
+
+
 #include "ParameterManager.h"
 
 Connections::Connections()
