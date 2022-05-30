@@ -23,6 +23,7 @@
 
 
 #include "EdgesFactory.h"
+
 #include "OperationManager.h"
 
 
