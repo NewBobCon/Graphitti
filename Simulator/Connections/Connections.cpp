@@ -18,6 +18,8 @@
 #include "Connections.h"
 #include "AllEdges.h"
 #include "AllVertices.h"
+
+
 #include "EdgesFactory.h"
 #include "OperationManager.h"
 
