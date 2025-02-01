@@ -1,0 +1,7 @@
+<map id="Simulator/Recorders/NG911/Xml911Recorder.h" name="Simulator/Recorders/NG911/Xml911Recorder.h">
+<area shape="rect" id="Node000001" title="Header file for Xml911Recorder.h." alt="" coords="108,5,285,46"/>
+<area shape="rect" id="Node000002" href="$_xml911_recorder_8cpp.html" title="Header file for Xml911Recorder.h." alt="" coords="5,94,196,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,59,124,96,120,92,162,55"/>
+<area shape="rect" id="Node000003" href="$_recorder_factory_8cpp.html" title="A factory class for creating Recorder objects." alt="" coords="220,94,365,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,55,273,92,269,96,228,59"/>
+</map>

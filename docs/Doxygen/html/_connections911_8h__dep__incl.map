@@ -1,0 +1,9 @@
+<map id="Simulator/Connections/NG911/Connections911.h" name="Simulator/Connections/NG911/Connections911.h">
+<area shape="rect" id="Node000001" title="The model of the static network." alt="" coords="201,5,374,46"/>
+<area shape="rect" id="Node000002" href="$_connections_factory_8cpp.html" title="A factory class for creating Connections objects." alt="" coords="5,94,170,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,55,134,96,132,91,227,50"/>
+<area shape="rect" id="Node000003" href="$_connections911_8cpp.html" title="The model of the static network." alt="" coords="194,94,381,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,62,290,94,285,94,285,62"/>
+<area shape="rect" id="Node000004" href="$_xml911_recorder_8cpp.html" title="Header file for Xml911Recorder.h." alt="" coords="406,94,596,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,50,453,91,451,96,349,55"/>
+</map>
