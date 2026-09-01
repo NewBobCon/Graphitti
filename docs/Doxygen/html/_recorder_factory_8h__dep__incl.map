@@ -1,0 +1,9 @@
+<map id="Simulator/Recorders/RecorderFactory.h" name="Simulator/Recorders/RecorderFactory.h">
+<area shape="rect" id="Node000001" title="A factory class for creating Recorder objects." alt="" coords="225,5,364,46"/>
+<area shape="rect" id="Node000002" href="$_model_8cpp.html" title="Implementation of Model for the graph&#45;based networks." alt="" coords="5,102,176,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,55,120,103,118,99,233,50"/>
+<area shape="rect" id="Node000003" href="$_simulator_8cpp.html" title="Platform independent base class for the Brain Grid simulator. Simulator is a singleton class (a class..." alt="" coords="199,102,390,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,62,297,101,292,101,292,62"/>
+<area shape="rect" id="Node000004" href="$_recorder_factory_8cpp.html" title="A factory class for creating Recorder objects." alt="" coords="414,94,559,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="353,50,444,91,442,96,351,55"/>
+</map>
